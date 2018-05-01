@@ -1,4 +1,4 @@
 # YourName.py
-name = input("what is ur name?\n")
+name = input("Could you please tell me your name\n")
 print ("Hi, ",name)
        
