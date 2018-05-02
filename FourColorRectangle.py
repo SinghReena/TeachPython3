@@ -1,4 +1,4 @@
-#FourColorRectangle.py
+#FourColorSquare.py
 
 import turtle
 
